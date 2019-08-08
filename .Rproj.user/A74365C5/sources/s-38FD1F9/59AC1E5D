@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1565226795824.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1437610487",
+    "id" : "59AC1E5D",
+    "lastKnownWriteTime" : 1565226791,
+    "last_content_update" : 1565226791,
+    "path" : "~/myblog/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
